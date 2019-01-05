@@ -1,9 +1,9 @@
 
 # Title
-EXAMPLE PLAYSET TITLE
+Crypticopia
 
 # Author
-EXAMPLE AUTHOR
+Charles Watley
 
 # Cover Images
 ![StoreFront Image](/media/images/logo.jpg)
@@ -19,7 +19,7 @@ EXAMPLE AUTHOR
 1.0
 
 # Overview
-This is an example description of the playset. This is what players will read when they first see your playset, and should be considered your elevator pitch to players of what your world is about and what they should expect.
+It's basically MIB for Weave. Sounds cool right?
 
 # RPGRating
 - 2
